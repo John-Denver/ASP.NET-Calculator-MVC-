@@ -1,0 +1,30 @@
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\bin\Debug\net8.0\appsettings.json
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\bin\Debug\net8.0\Tip Calculator.staticwebassets.runtime.json
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\bin\Debug\net8.0\Tip Calculator.exe
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\bin\Debug\net8.0\Tip Calculator.deps.json
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\bin\Debug\net8.0\Tip Calculator.runtimeconfig.json
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\bin\Debug\net8.0\Tip Calculator.dll
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\bin\Debug\net8.0\Tip Calculator.pdb
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\Tip Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\Tip Calculator.AssemblyInfoInputs.cache
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\Tip Calculator.AssemblyInfo.cs
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\Tip Calculator.csproj.CoreCompileInputs.cache
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\Tip Calculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\Tip Calculator.RazorAssemblyInfo.cache
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\Tip Calculator.RazorAssemblyInfo.cs
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\staticwebassets\msbuild.Tip Calculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\staticwebassets\msbuild.build.Tip Calculator.props
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tip Calculator.props
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tip Calculator.props
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\scopedcss\bundle\Tip Calculator.styles.css
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\scopedcss\projectbundle\Tip Calculator.bundle.scp.css
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\Tip Calculator.dll
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\refint\Tip Calculator.dll
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\Tip Calculator.pdb
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\Tip Calculator.genruntimeconfig.cache
+C:\Users\denve\Downloads\Valedictorian\Y3_Sem1\DenTall\Tip Calculator\Tip Calculator\obj\Debug\net8.0\ref\Tip Calculator.dll

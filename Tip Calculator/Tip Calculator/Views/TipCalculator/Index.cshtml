@@ -1,0 +1,35 @@
+﻿@model TipCalculator.Models.TipCalculatorModel
+
+@{
+    ViewData["Title"] = "Tip Calculator";
+}
+
+<h2>Tip Calculator</h2>
+
+<form asp-action="Index" method="post">
+    <div>
+        <label for="mealCost">Cost of meal:</label>
+        <input type="text" id="mealCost" name="MealCost" value="@Model.MealCost" />
+    </div>
+
+    @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+    {
+        <div style="color:red">
+            @Model.ErrorMessage
+        </div>
+    }
+
+    <div>
+        <button type="submit">Calculate</button>
+        <a asp-action="Clear">Clear</a>
+    </div>
+
+    @if (Model.MealCost > 0)
+    {
+        <div>
+            <p>15% tip: @Model.CalculateTip(15)Kshs</p>
+            <p>20% tip: @Model.CalculateTip(20)Kshs</p>
+            <p>25% tip: @Model.CalculateTip(25)Kshs</p>
+        </div>
+    }
+</form>
